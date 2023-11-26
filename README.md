@@ -7,7 +7,7 @@
 ## Présentation et Installation
 ### Présentation
 Dans un monde de plus en plus connecté, servez-vous d'une barre de recherche "minimaliste" afin d'aller à l'essentiel et ne pas perdre de temps sur les suggestions.
-Le présent projet et fait pour être installé et utilisé en local (! ne pas déployer! des failles existent!).
+Le présent projet est fait pour être installé et utilisé en local (! ne pas déployer! des failles existent!).
 Dès lors qu'elle aura été implementée, une version "sûre" sera déployée sur [http://youtube-search.cosimoungaro.fr](http://youtube-search.cosimoungaro.fr)
 
 ### Installation
